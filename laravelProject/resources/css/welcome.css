@@ -1,0 +1,13 @@
+body {
+                font-family: 'Nunito', sans-serif;
+     }
+
+     h2{
+                text-align:center;
+            }
+           
+            img{
+                height: 400px;
+                border:2px solid black;
+            }
+
