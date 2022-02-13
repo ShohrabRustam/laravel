@@ -1,4 +1,4 @@
-@include('Layout.main')
+@extends('Layout.main')
 @push('title')
 <title>Home</title>
 @endpush
